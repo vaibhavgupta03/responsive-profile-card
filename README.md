@@ -6,7 +6,7 @@ This is a responsive profile card created using HTML and CSS. The design of the 
 and a button to contact the user. The card is responsive and will adjust to different screen sizes.
 
 ## Demo
-<a href = "https://vaibhavgupta03.github.io/responsive-profile-card/">Take a look on my Project</a>
+<a href = "https://vaibhavgupta03.github.io/responsive-profile-card/" target = "_blank">Take a look on my Project</a>
 
 ## Installation
 Clone the repository
